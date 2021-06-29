@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-1: Ninja School Private,/icon.png,main.GameMidlet
+MIDlet-Vendor: NHTGAME
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: Nsozz
+MIDlet-Version: 1.4.8
+MicroEdition-Profile: MIDP-2.0
+
